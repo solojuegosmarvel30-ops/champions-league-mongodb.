@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "6ae9f1f4ec9a785006c9f07d"
+  },
+  "jugador_id": 1,
+  "nombre": "Vinícius Júnior",
+  "posicion": "Delantero",
+  "nacionalidad": "Brasil",
+  "dorsal": 7,
+  "equipo_id": 1
+},
+{
+  "_id": {
+    "$oid": "6ae9f1f4ec9a785006c9f07e"
+  },
+  "jugador_id": 2,
+  "nombre": "Lamine Yamal",
+  "posicion": "Delantero",
+  "nacionalidad": "España",
+  "dorsal": 19,
+  "equipo_id": 2
+},
+{
+  "_id": {
+    "$oid": "6ae9f1f4ec9a785006c9f07f"
+  },
+  "jugador_id": 3,
+  "nombre": "Erling Haaland",
+  "posicion": "Delantero",
+  "nacionalidad": "Noruega",
+  "dorsal": 9,
+  "equipo_id": 3
+},
+{
+  "_id": {
+    "$oid": "6ae9f1f4ec9a785006c9f080"
+  },
+  "jugador_id": 4,
+  "nombre": "Harry Kane",
+  "posicion": "Delantero",
+  "nacionalidad": "Inglaterra",
+  "dorsal": 9,
+  "equipo_id": 4
+},
+{
+  "_id": {
+    "$oid": "6ae9f1f4ec9a785006c9f081"
+  },
+  "jugador_id": 5,
+  "nombre": "Ousmane Dembélé",
+  "posicion": "Delantero",
+  "nacionalidad": "Francia",
+  "dorsal": 10,
+  "equipo_id": 5
+},
+{
+  "_id": {
+    "$oid": "6ae9f1f4ec9a785006c9f082"
+  },
+  "jugador_id": 6,
+  "nombre": "Mohamed Salah",
+  "posicion": "Delantero",
+  "nacionalidad": "Egipto",
+  "dorsal": 11,
+  "equipo_id": 6
+},
+{
+  "_id": {
+    "$oid": "6ae9f1f4ec9a785006c9f083"
+  },
+  "jugador_id": 7,
+  "nombre": "Lautaro Martínez",
+  "posicion": "Delantero",
+  "nacionalidad": "Argentina",
+  "dorsal": 10,
+  "equipo_id": 7
+},
+{
+  "_id": {
+    "$oid": "6ae9f1f4ec9a785006c9f084"
+  },
+  "jugador_id": 8,
+  "nombre": "Kenan Yıldız",
+  "posicion": "Delantero",
+  "nacionalidad": "Turquía",
+  "dorsal": 10,
+  "equipo_id": 8
+},
+{
+  "_id": {
+    "$oid": "6ae9f1f4ec9a785006c9f085"
+  },
+  "jugador_id": 9,
+  "nombre": "Julian Brandt",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Alemania",
+  "dorsal": 19,
+  "equipo_id": 9
+},
+{
+  "_id": {
+    "$oid": "6ae9f1f4ec9a785006c9f086"
+  },
+  "jugador_id": 10,
+  "nombre": "Julián Álvarez",
+  "posicion": "Delantero",
+  "nacionalidad": "Argentina",
+  "dorsal": 19,
+  "equipo_id": 10
+},
+{
+  "_id": {
+    "$oid": "6ae9faa5ec9a785006c9f109"
+  },
+  "jugador_id": 11,
+  "nombre": "Jude Bellingham",
+  "posicion": "Mediocampista",
+  "nacionalidad": "Inglaterra",
+  "dorsal": 5,
+  "equipo_id": 1
+},
+{
+  "_id": {
+    "$oid": "6ae9fc29ec9a785006c9f10f"
+  },
+  "jugador_id": 12,
+  "nombre": "Kylian Mbappé",
+  "posicion": "Delantero",
+  "nacionalidad": "Francia",
+  "dorsal": 10,
+  "equipo_id": 1
+},
+{
+  "_id": {
+    "$oid": "6ae9fc6c7af1ce319efa00a0"
+  },
+  "jugador_id": 12,
+  "nombre": "Kylian Mbappé",
+  "posicion": "Delantero",
+  "nacionalidad": "Francia",
+  "dorsal": 10,
+  "equipo_id": 1,
+  "estadisticas": {
+    "goles": 20,
+    "asistencias": 5,
+    "partidos": 14
+  }
+}]

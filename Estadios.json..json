@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6ae9f2cfec9a785006c9f0b0"
+  },
+  "estadio_id": 1,
+  "nombre": "Santiago Bernabéu",
+  "ciudad": "Madrid",
+  "capacidad": 83000,
+  "equipo_id": 1
+},
+{
+  "_id": {
+    "$oid": "6ae9f2cfec9a785006c9f0b1"
+  },
+  "estadio_id": 2,
+  "nombre": "Spotify Camp Nou",
+  "ciudad": "Barcelona",
+  "capacidad": 99000,
+  "equipo_id": 2
+},
+{
+  "_id": {
+    "$oid": "6ae9f2cfec9a785006c9f0b2"
+  },
+  "estadio_id": 3,
+  "nombre": "Etihad Stadium",
+  "ciudad": "Mánchester",
+  "capacidad": 53000,
+  "equipo_id": 3
+},
+{
+  "_id": {
+    "$oid": "6ae9f2cfec9a785006c9f0b3"
+  },
+  "estadio_id": 4,
+  "nombre": "Allianz Arena",
+  "ciudad": "Múnich",
+  "capacidad": 75000,
+  "equipo_id": 4
+},
+{
+  "_id": {
+    "$oid": "6ae9f2cfec9a785006c9f0b4"
+  },
+  "estadio_id": 5,
+  "nombre": "Parc des Princes",
+  "ciudad": "París",
+  "capacidad": 48000,
+  "equipo_id": 5
+},
+{
+  "_id": {
+    "$oid": "6ae9f2cfec9a785006c9f0b5"
+  },
+  "estadio_id": 6,
+  "nombre": "Anfield",
+  "ciudad": "Liverpool",
+  "capacidad": 61000,
+  "equipo_id": 6
+},
+{
+  "_id": {
+    "$oid": "6ae9f2cfec9a785006c9f0b6"
+  },
+  "estadio_id": 7,
+  "nombre": "San Siro",
+  "ciudad": "Milán",
+  "capacidad": 75000,
+  "equipo_id": 7
+},
+{
+  "_id": {
+    "$oid": "6ae9f2cfec9a785006c9f0b7"
+  },
+  "estadio_id": 8,
+  "nombre": "Allianz Stadium",
+  "ciudad": "Turín",
+  "capacidad": 41000,
+  "equipo_id": 8
+},
+{
+  "_id": {
+    "$oid": "6ae9f2cfec9a785006c9f0b8"
+  },
+  "estadio_id": 9,
+  "nombre": "Signal Iduna Park",
+  "ciudad": "Dortmund",
+  "capacidad": 81000,
+  "equipo_id": 9
+},
+{
+  "_id": {
+    "$oid": "6ae9f2cfec9a785006c9f0b9"
+  },
+  "estadio_id": 10,
+  "nombre": "Riyadh Air Metropolitano",
+  "ciudad": "Madrid",
+  "capacidad": 70000,
+  "equipo_id": 10
+}]

@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6ae9f1bdec9a785006c9f06d"
+  },
+  "equipo_id": 1,
+  "nombre": "Real Madrid",
+  "pais": "España",
+  "fundacion": 1902
+},
+{
+  "_id": {
+    "$oid": "6ae9f1bdec9a785006c9f06e"
+  },
+  "equipo_id": 2,
+  "nombre": "FC Barcelona",
+  "pais": "España",
+  "fundacion": 1899
+},
+{
+  "_id": {
+    "$oid": "6ae9f1bdec9a785006c9f06f"
+  },
+  "equipo_id": 3,
+  "nombre": "Manchester City",
+  "pais": "Inglaterra",
+  "fundacion": 1880
+},
+{
+  "_id": {
+    "$oid": "6ae9f1bdec9a785006c9f070"
+  },
+  "equipo_id": 4,
+  "nombre": "Bayern Múnich",
+  "pais": "Alemania",
+  "fundacion": 1900
+},
+{
+  "_id": {
+    "$oid": "6ae9f1bdec9a785006c9f071"
+  },
+  "equipo_id": 5,
+  "nombre": "Paris Saint-Germain",
+  "pais": "Francia",
+  "fundacion": 1970
+},
+{
+  "_id": {
+    "$oid": "6ae9f1bdec9a785006c9f072"
+  },
+  "equipo_id": 6,
+  "nombre": "Liverpool",
+  "pais": "Inglaterra",
+  "fundacion": 1892
+},
+{
+  "_id": {
+    "$oid": "6ae9f1bdec9a785006c9f073"
+  },
+  "equipo_id": 7,
+  "nombre": "Inter de Milán",
+  "pais": "Italia",
+  "fundacion": 1908
+},
+{
+  "_id": {
+    "$oid": "6ae9f1bdec9a785006c9f074"
+  },
+  "equipo_id": 8,
+  "nombre": "Juventus",
+  "pais": "Italia",
+  "fundacion": 1897
+},
+{
+  "_id": {
+    "$oid": "6ae9f1bdec9a785006c9f075"
+  },
+  "equipo_id": 9,
+  "nombre": "Borussia Dortmund",
+  "pais": "Alemania",
+  "fundacion": 1909
+},
+{
+  "_id": {
+    "$oid": "6ae9f1bdec9a785006c9f076"
+  },
+  "equipo_id": 10,
+  "nombre": "Atlético de Madrid",
+  "pais": "España",
+  "fundacion": 1903
+}]

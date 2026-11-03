@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6ae9f329ec9a785006c9f0c8"
+  },
+  "partido_id": 1,
+  "local_id": 1,
+  "visitante_id": 2,
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "fase": "Fase de grupos",
+  "temporada": "2025-26"
+},
+{
+  "_id": {
+    "$oid": "6ae9f329ec9a785006c9f0c9"
+  },
+  "partido_id": 2,
+  "local_id": 3,
+  "visitante_id": 4,
+  "goles_local": 1,
+  "goles_visitante": 1,
+  "fase": "Fase de grupos",
+  "temporada": "2025-26"
+},
+{
+  "_id": {
+    "$oid": "6ae9f329ec9a785006c9f0ca"
+  },
+  "partido_id": 3,
+  "local_id": 5,
+  "visitante_id": 6,
+  "goles_local": 0,
+  "goles_visitante": 2,
+  "fase": "Fase de grupos",
+  "temporada": "2025-26"
+},
+{
+  "_id": {
+    "$oid": "6ae9f329ec9a785006c9f0cb"
+  },
+  "partido_id": 4,
+  "local_id": 7,
+  "visitante_id": 8,
+  "goles_local": 3,
+  "goles_visitante": 0,
+  "fase": "Fase de grupos",
+  "temporada": "2025-26"
+},
+{
+  "_id": {
+    "$oid": "6ae9f329ec9a785006c9f0cc"
+  },
+  "partido_id": 5,
+  "local_id": 9,
+  "visitante_id": 10,
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "fase": "Octavos de final",
+  "temporada": "2025-26"
+},
+{
+  "_id": {
+    "$oid": "6ae9f329ec9a785006c9f0cd"
+  },
+  "partido_id": 6,
+  "local_id": 2,
+  "visitante_id": 3,
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "fase": "Octavos de final",
+  "temporada": "2025-26"
+},
+{
+  "_id": {
+    "$oid": "6ae9f329ec9a785006c9f0ce"
+  },
+  "partido_id": 7,
+  "local_id": 4,
+  "visitante_id": 5,
+  "goles_local": 2,
+  "goles_visitante": 3,
+  "fase": "Cuartos de final",
+  "temporada": "2025-26"
+},
+{
+  "_id": {
+    "$oid": "6ae9f329ec9a785006c9f0cf"
+  },
+  "partido_id": 8,
+  "local_id": 6,
+  "visitante_id": 7,
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "fase": "Cuartos de final",
+  "temporada": "2025-26"
+},
+{
+  "_id": {
+    "$oid": "6ae9f329ec9a785006c9f0d0"
+  },
+  "partido_id": 9,
+  "local_id": 1,
+  "visitante_id": 6,
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "fase": "Semifinal",
+  "temporada": "2025-26"
+},
+{
+  "_id": {
+    "$oid": "6ae9f329ec9a785006c9f0d1"
+  },
+  "partido_id": 10,
+  "local_id": 5,
+  "visitante_id": 2,
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "fase": "Semifinal",
+  "temporada": "2025-26"
+}]
