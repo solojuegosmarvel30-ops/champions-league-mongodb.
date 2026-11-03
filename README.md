@@ -3,7 +3,7 @@
 Proyecto de práctica de MongoDB creado con MongoDB Compass.
 Los datos son de ejemplo y no son oficiales.
 
-**Autor:** 
+**Autor:** Andres Felipe Vargas Cardenas
 **Curso:** 
 **Fecha:** 
 
